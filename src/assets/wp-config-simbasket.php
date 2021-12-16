@@ -4,10 +4,10 @@
  * The extended configuration for WordPress
  * Add those directives to the wp-config.php
  *
- * Project URL: https://github.com/ojullien/simbasket.fr
+ * Project URL: https://github.com/ojullien/simbasket
  * Author: Olivier Jullien <https://github.com/ojullien>
  *
- * @package simbasket.fr
+ * @package simbasket
  */
 
 /* Custom WordPress editor */
